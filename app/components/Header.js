@@ -9,7 +9,7 @@ import Link from "next/link";
 
 const HeaderPorto = () => {
   return (
-    <div className="dark:bg-[#ffe5cc] grid md:grid-cols-2 grid-cols-1 md:h-screen h-full w-full">
+    <div className="bg-[#ffe5cc] grid md:grid-cols-2 grid-cols-1 md:h-screen h-full w-full">
       <div className="flex justify-center items-center md:pt-0 pt-16 md:px-0 px-10">
         <Image className="rounded-lg" src="/gea.jpg" width={380} height={300} />
       </div>
